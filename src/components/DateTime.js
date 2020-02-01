@@ -29,7 +29,7 @@ export default class DateTime {
     }
 
     dayOfWeek() {
-        return this.dayNames[this.date.getDay()-1];
+        return this.dayNames[this.date.getDay()];
     }
 
     dayOfMonth() {
