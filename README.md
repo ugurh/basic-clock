@@ -1,5 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<a href="https://hrnugr.github.io/basic-clock/">[Demo Clock App] </a><br />
+<img src = "clock.PNG" alt="clock" />
 ## Available Scripts
 
 In the project directory, you can run:
